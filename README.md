@@ -20,4 +20,4 @@ The UK Bank Power BI Dashboard offers a comprehensive analysis of the bank's per
   #### Performance Metrics: Monitor key performance indicators (KPIs) such as customer acquisition rate, retention rate, and average transaction value. Track the bank's performance and identify areas for improvement.
 
 ## Contributors :
- @ tushar-jolly
+ Tushar Jolly
