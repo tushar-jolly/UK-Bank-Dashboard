@@ -11,10 +11,13 @@ The UK Bank Power BI Dashboard offers a comprehensive analysis of the bank's per
 
   Customer Demographics: Gain insights into the demographic distribution of bank customers, including age groups, genders, and geographic locations. Understand the bank's customer base to tailor products and       services effectively.
 
-  #Account Trends: Track account openings, closures, and types of accounts held by customers over time. Identify shifting preferences and behaviors to adapt strategies accordingly.
+  # Account Trends: Track account openings, closures, and types of accounts held by customers over time. Identify shifting preferences and behaviors to adapt strategies accordingly.
 
-  #Transaction Analysis: Analyze transaction volumes, types, and trends to understand customer behavior and preferences. Identify patterns for targeted marketing and product development initiatives.
+  # Transaction Analysis: Analyze transaction volumes, types, and trends to understand customer behavior and preferences. Identify patterns for targeted marketing and product development initiatives.
 
-  #Revenue Analysis: Gain insights into revenue generated through various banking products and services. Identify high-value customers and opportunities for revenue growth through cross-selling and upselling.
+  # Revenue Analysis: Gain insights into revenue generated through various banking products and services. Identify high-value customers and opportunities for revenue growth through cross-selling and upselling.
 
-  #Performance Metrics: Monitor key performance indicators (KPIs) such as customer acquisition rate, retention rate, and average transaction value. Track the bank's performance and identify areas for improvement.
+  # Performance Metrics: Monitor key performance indicators (KPIs) such as customer acquisition rate, retention rate, and average transaction value. Track the bank's performance and identify areas for improvement.
+
+## Contributora
+ Tushar Jolly
