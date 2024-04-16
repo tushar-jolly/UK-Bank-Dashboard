@@ -8,6 +8,7 @@ UK Bank Power BI Dashboard
 The UK Bank Power BI Dashboard offers a comprehensive analysis of the bank's performance and key metrics, addressing critical challenges in the banking industry. By leveraging data-driven insights, the dashboard aims to empower decision-makers to enhance customer understanding, optimize operational efficiency, and maximize revenue.
 ## Dashboard
 ![Screenshot (394)](https://github.com/tushar-jolly/UK-Bank-Dashboard/assets/167069552/19c6bd3c-ca09-4cab-9e0b-36fcf99dc21b)
+![Screenshot (395)](https://github.com/tushar-jolly/UK-Bank-Dashboard/assets/167069552/ea30ab02-7c1a-4daf-9b99-a5e31faeef8a)
 
 
 ## Key Features:
